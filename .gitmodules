@@ -1,0 +1,6 @@
+[submodule "libs/lib1"]
+	path = libs/lib1
+	url = https://github.com/Wenroufeng/lib1.git
+[submodule "libs/lib2"]
+	path = libs/lib2
+	url = https://github.com/Wenroufeng/lib2.git
